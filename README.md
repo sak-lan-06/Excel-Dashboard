@@ -6,7 +6,7 @@ This project is an interactive Store Sales Dashboard created to analyze sales pe
 
 The dashboard provides a clear view of monthly sales trends, customer demographics, order status, top-performing states, and sales contribution from different online shopping platforms.
 
-Dataset used : <a href="https://github.com/sak-lan-06/Excel-Dashboard/blob/main/Store%20Dashboard.xlsx"></a>
+Dataset used : <a href="https://github.com/sak-lan-06/Excel-Dashboard/blob/main/Store%20Dashboard.xlsx">Dataset</a>
 
 ## Objective
 The main objective of this project is to analyze store sales data and identify:
@@ -74,7 +74,7 @@ This dashboard helps businesses understand customer behavior, track sales perfor
 
 ## Dashboard Preview
 
-<a href="https://github.com/sak-lan-06/Excel-Dashboard/blob/main/Screenshot%202026-06-28%20214006.png"></a>
+<a href="https://github.com/sak-lan-06/Excel-Dashboard/blob/main/Screenshot%202026-06-28%20214006.png">Dashboard</a>
 
 ## Author
 Sakshi Lanke
